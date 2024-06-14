@@ -96,12 +96,45 @@ body {
   .finanzas p {
     font-size: 1.2em;
     margin-bottom: 30px;
+    margin: 5px;
   }
   
   .form-group {
     margin-bottom: 20px;
+    margin: 5px;
+    color: gray;
+   
+    
   }
-  
+
+  .form-group-dates {
+    padding-top: 3px;
+    margin-bottom: 20px;
+    margin: px;
+    color: gray;
+    
+  }
+
+  .form-group-label1{
+    margin-right: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;    
+    gap: 100px;
+    margin-right: 5px;
+    display: inline;
+    padding-right: 35%;
+  }
+
+  .form-group-label2{
+    margin-right: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;    
+    gap: 100px;
+    margin-right: 5px;
+    display: inline;
+  }
+
+
   .form-group input,
   .form-group textarea {
     width: 40%;
